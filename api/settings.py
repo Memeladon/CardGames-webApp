@@ -1,0 +1,3 @@
+PROJECT_NAME = 'CardGames'
+PROJECT_VERSION = '0.0'
+
